@@ -1,0 +1,65 @@
+about:
+  description: The fundamental package for scientific computing with Python.
+  license: NOASSERTION
+  homepage: https://numpy.org
+  head: 7b1601b
+  archived: false
+  latestVersion: v2.5.2
+  collectedAt: 2026-08-31T06:16:08Z
+timeline:
+  created: 2010-09-13
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-09
+popularity:
+  star: 32635
+  watcher: 602
+  fork: 12696
+  release: 147
+  contributor: 1911
+  pullRequest: 3489
+  issue: 14073
+language:
+  Python: 13052553
+  C: 6472547
+  C++: 825892
+  Cython: 158096
+  Meson: 102681
+  Fortran: 45833
+  Shell: 6902
+  sed: 5706
+  Smarty: 4129
+  Makefile: 1716
+totalLine: 20676055
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 1
+    mergedPR: 188
+    openPR: 35
+    closedIssue: 16
+    openIssue: 25
+    commit: 168
+  last90d:
+    since: 2026-06-02
+    release: 4
+    mergedPR: 542
+    openPR: 74
+    closedIssue: 86
+    openIssue: 56
+    commit: 622
+  last180d:
+    since: 2026-03-04
+    release: 8
+    mergedPR: 868
+    openPR: 131
+    closedIssue: 159
+    openIssue: 93
+    commit: 1079
+  last360d:
+    since: 2025-09-05
+    release: 15
+    mergedPR: 1620
+    openPR: 179
+    closedIssue: 382
+    openIssue: 170
+    commit: 2527
