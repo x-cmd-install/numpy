@@ -7,7 +7,7 @@ about:
   head: 194b4dc
   archived: false
   latestVersion: v2.5.2
-  collectedAt: 2026-09-04T20:18:34Z
+  collectedAt: 2026-09-04T20:24:16Z
 timeline:
   created: 2010-09-13
   lastCommit: 2026-09-04
@@ -90,7 +90,7 @@ total:
   commit: 41931
 ---
 path: /home/runner/.x-repo/github.com/numpy/numpy
-collectedAt: 2026-09-04T20:18:48Z
+collectedAt: 2026-09-04T20:24:29Z
 loc:
   Python:
     code: 222498
