@@ -5,15 +5,15 @@ about:
   head: b76063c
   archived: false
   latestVersion: "v2.5.3"
-  collectedAt: 2026-09-08T02:46:51Z
+  collectedAt: 2026-09-08T05:43:39Z
 timeline:
   created: 2010-09-13
   lastCommit: 2026-09-07
   lastRelease: 2026-09-06
 popularity:
-  star: 32702
+  star: 32703
   watcher: 605
-  fork: 12751
+  fork: 12750
   release: 148
   contributor: 1914
   pullRequest: 18357
@@ -88,7 +88,7 @@ total:
   commit: 41976
 ---
 path: /home/runner/.x-repo/github.com/numpy/numpy
-collectedAt: 2026-09-08T02:47:22Z
+collectedAt: 2026-09-08T05:44:09Z
 loc:
   Python:
     code: 222524
