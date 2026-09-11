@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.5.3"
   latestRelease: "v2.5.3"
   latestPrerelease: "v2.5.0rc1"
-  collectedAt: 2026-09-11T05:48:17Z
+  collectedAt: 2026-09-11T19:10:58Z
 timeline:
   created: 2010-09-13
   lastCommit: 2026-09-11
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-06
   lastPrerelease: 2026-06-02
 popularity:
-  star: 32714
+  star: 32721
   watcher: 606
-  fork: 12766
+  fork: 12769
   release: 148
   contributor: 1919
-  pullRequest: 18405
-  issue: 14089
+  pullRequest: 18410
+  issue: 14091
 language:
   Python: 13329309
   C: 6542868
@@ -39,60 +39,60 @@ recent:
     since: 2026-08-12
     release: 1
     mergedPR: 195
-    openPR: 41
+    openPR: 44
     closedIssue: 21
-    openIssue: 24
+    openIssue: 26
     commit: 271
   last60d:
     since: 2026-07-13
     release: 2
     mergedPR: 373
-    openPR: 55
+    openPR: 58
     closedIssue: 53
-    openIssue: 37
+    openIssue: 39
     commit: 504
   last90d:
     since: 2026-06-13
     release: 4
     mergedPR: 584
-    openPR: 75
+    openPR: 77
     closedIssue: 92
-    openIssue: 53
+    openIssue: 55
     commit: 748
   last180d:
     since: 2026-03-15
     release: 8
     mergedPR: 908
-    openPR: 133
+    openPR: 135
     closedIssue: 164
-    openIssue: 92
+    openIssue: 94
     commit: 1218
   last360d:
     since: 2025-09-16
     release: 15
     mergedPR: 1672
-    openPR: 183
+    openPR: 185
     closedIssue: 385
-    openIssue: 160
+    openIssue: 162
     commit: 2645
   last720d:
     since: 2024-09-21
     release: 30
     mergedPR: 2963
-    openPR: 247
+    openPR: 249
     closedIssue: 961
-    openIssue: 373
+    openIssue: 375
     commit: 4872
 total:
   release: 148
   mergedPR: 14896
-  openPR: 290
+  openPR: 292
   closedIssue: 12087
-  openIssue: 2002
+  openIssue: 2004
   commit: 42030
 ---
 path: /home/runner/.x-repo/github.com/numpy/numpy
-collectedAt: 2026-09-11T05:48:45Z
+collectedAt: 2026-09-11T19:11:34Z
 loc:
   Python:
     code: 223047
