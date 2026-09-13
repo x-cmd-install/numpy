@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 32,723 · **Forks**: 12,769 · **Open issues**: 14,091 · **Contributors**: 1,919
+- **Stars**: 32,732 · **Forks**: 12,773 · **Open issues**: 14,093 · **Contributors**: 1,919
 
 ## Totals (cumulative)
 
-- **Releases**: 148 · **Merged PRs**: 14896 · **Open PRs**: 292 · **Closed issues**: 12088 · **Open issues**: 2003 · **Commits**: 42030
+- **Releases**: 148 · **Merged PRs**: 14897 · **Open PRs**: 295 · **Closed issues**: 12089 · **Open issues**: 2004 · **Commits**: 42030
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 1 | 183 | 44 | 21 | 25 | 271 |
-| last60d | 2026-07-14 | 2 | 368 | 57 | 51 | 39 | 504 |
-| 90d | 2026-06-14 | 4 | 578 | 76 | 92 | 55 | 748 |
-| last180d | 2026-03-16 | 8 | 907 | 135 | 164 | 94 | 1218 |
-| 360d | 2025-09-17 | 15 | 1671 | 185 | 385 | 161 | 2645 |
-| last720d | 2024-09-22 | 30 | 2959 | 249 | 962 | 374 | 4870 |
+| 30d | 2026-08-14 | 1 | 176 | 46 | 20 | 25 | 218 |
+| last60d | 2026-07-15 | 2 | 362 | 60 | 52 | 40 | 453 |
+| 90d | 2026-06-15 | 4 | 575 | 79 | 90 | 56 | 713 |
+| last180d | 2026-03-17 | 8 | 908 | 136 | 165 | 92 | 1184 |
+| 360d | 2025-09-18 | 15 | 1671 | 187 | 386 | 162 | 2611 |
+| last720d | 2024-09-23 | 30 | 2952 | 252 | 962 | 373 | 4865 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for numpy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:37:59Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:05:33Z._
