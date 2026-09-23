@@ -4,7 +4,7 @@
 
 The fundamental package for scientific computing with Python.
 
-[![x-cmd/install — numpy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/numpy.svg?lang=zh)](https://x-cmd.com/install/numpy)
+[![x-cmd/install — numpy Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/numpy.svg?lang=zh)](https://x-cmd.com/install/numpy)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install numpy
 
 ## 代码洞察
 
-合计: **585,756** 行代码（覆盖前 5 种语言、共 **1555** 个文件）。
+合计: **585,795** 行代码（覆盖前 5 种语言、共 **1558** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 223,593 | 15,761 | 31,833 | 495 |
+| Python | 223,613 | 15,763 | 31,834 | 495 |
 | C | 169,671 | 83,457 | 29,459 | 182 |
-| ReStructuredText | 93,228 | 0 | 25,263 | 618 |
-| CHeader | 31,673 | 8,014 | 4,484 | 233 |
+| ReStructuredText | 93,246 | 0 | 25,267 | 621 |
+| CHeader | 31,675 | 8,014 | 4,485 | 233 |
 | Svg | 20,767 | 11 | 6 | 27 |
 
 ## OpenSSF Scorecard 评分
@@ -31,8 +31,8 @@ x install numpy
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install numpy
 
 ## 流行度
 
-- **Star**: 32,800 · **Fork**: 12,831 · **开放 issue**: 14,106 · **贡献者**: 1,925
+- **Star**: 32,812 · **Fork**: 12,833 · **开放 issue**: 14,107 · **贡献者**: 1,925
 
 ## 累计统计
 
-- **发布数**: 148 · **已合并 PR**: 14997 · **开放 PR**: 305 · **已关闭 issue**: 12130 · **开放 issue**: 1976 · **提交数**: 42153
+- **发布数**: 148 · **已合并 PR**: 15012 · **开放 PR**: 301 · **已关闭 issue**: 12131 · **开放 issue**: 1976 · **提交数**: 42169
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 213 | 46 | 30 | 16 | 277 |
-| last60d | 2026-07-24 | 2 | 411 | 69 | 53 | 36 | 537 |
-| 90d | 2026-06-24 | 3 | 611 | 88 | 94 | 51 | 776 |
-| last180d | 2026-03-26 | 8 | 982 | 140 | 174 | 83 | 1264 |
-| 360d | 2025-09-27 | 15 | 1737 | 198 | 396 | 154 | 2699 |
-| last720d | 2024-10-02 | 30 | 3032 | 263 | 970 | 360 | 4948 |
+| 30d | 2026-08-24 | 1 | 208 | 41 | 27 | 16 | 287 |
+| last60d | 2026-07-25 | 2 | 423 | 64 | 51 | 36 | 547 |
+| 90d | 2026-06-25 | 3 | 620 | 83 | 92 | 50 | 786 |
+| last180d | 2026-03-27 | 8 | 997 | 135 | 174 | 83 | 1274 |
+| 360d | 2025-09-28 | 15 | 1751 | 193 | 395 | 153 | 2709 |
+| last720d | 2024-10-03 | 30 | 3044 | 259 | 971 | 359 | 4959 |
 
 ## Release 资产
 
@@ -82,4 +82,4 @@ numpy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:08:10Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:22:56Z._
