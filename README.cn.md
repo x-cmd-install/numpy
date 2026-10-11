@@ -42,36 +42,36 @@ x install numpy
 
 ## 发布
 
-- **最新版本**: `v2.5.3` (2026-09-06)
+- **最新版本**: `v2.5.4` (2026-10-10)
 - **最近提交**: 2026-10-09
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 33,049 · **Fork**: 12,899 · **开放 issue**: 14,124 · **贡献者**: 1,936
+- **Star**: 33,052 · **Fork**: 12,899 · **开放 issue**: 14,125 · **贡献者**: 1,936
 
 ## 累计统计
 
-- **发布数**: 148 · **已合并 PR**: 15159 · **开放 PR**: 309 · **已关闭 issue**: 12187 · **开放 issue**: 1937 · **提交数**: 42330
+- **发布数**: 149 · **已合并 PR**: 15161 · **开放 PR**: 309 · **已关闭 issue**: 12188 · **开放 issue**: 1937 · **提交数**: 42330
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 246 | 57 | 21 | 14 | 268 |
-| last60d | 2026-08-11 | 1 | 467 | 82 | 50 | 33 | 575 |
-| 90d | 2026-07-12 | 2 | 634 | 95 | 82 | 45 | 781 |
-| last180d | 2026-04-13 | 7 | 1050 | 138 | 171 | 80 | 1273 |
-| 360d | 2025-10-15 | 15 | 1786 | 207 | 386 | 145 | 2681 |
-| last720d | 2024-10-20 | 29 | 3131 | 262 | 974 | 341 | 5011 |
+| 30d | 2026-09-11 | 1 | 245 | 57 | 20 | 14 | 183 |
+| last60d | 2026-08-12 | 2 | 455 | 81 | 49 | 32 | 508 |
+| 90d | 2026-07-13 | 3 | 633 | 94 | 82 | 44 | 730 |
+| last180d | 2026-04-14 | 8 | 1049 | 138 | 171 | 79 | 1244 |
+| 360d | 2025-10-16 | 15 | 1771 | 207 | 386 | 145 | 2559 |
+| last720d | 2024-10-21 | 30 | 3131 | 262 | 975 | 337 | 5010 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [2.5.3-changelog.rst](https://github.com/numpy/numpy/releases/download/v2.5.3/2.5.3-changelog.rst) | 3.6 KiB | `other` |
-| [numpy-2.5.3.tar.gz](https://github.com/numpy/numpy/releases/download/v2.5.3/numpy-2.5.3.tar.gz) | 19.8 MiB | `native/unknown` |
-| [README.rst](https://github.com/numpy/numpy/releases/download/v2.5.3/README.rst) | 4.9 KiB | `other` |
+| [2.5.4-changelog.rst](https://github.com/numpy/numpy/releases/download/v2.5.4/2.5.4-changelog.rst) | 2.3 KiB | `other` |
+| [numpy-2.5.4.tar.gz](https://github.com/numpy/numpy/releases/download/v2.5.4/numpy-2.5.4.tar.gz) | 19.9 MiB | `native/unknown` |
+| [README.rst](https://github.com/numpy/numpy/releases/download/v2.5.4/README.rst) | 4.6 KiB | `other` |
 
 ## 改进这些数据
 
@@ -82,4 +82,4 @@ numpy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261010.yml` · 2026-10-10T06:47:43Z._
+_数据快照: `data/card/261011.yml` · 2026-10-11T06:37:19Z._
