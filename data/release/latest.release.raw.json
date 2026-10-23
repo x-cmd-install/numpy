@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2350,
       "digest": "sha256:f151c0388b59c082a566eae3594290f76930cb4cbad013ac6aebf52cd3770e48",
-      "download_count": 69,
+      "download_count": 71,
       "created_at": "2026-10-10T21:26:26Z",
       "updated_at": "2026-10-10T21:26:26Z",
       "browser_download_url": "https://github.com/numpy/numpy/releases/download/v2.5.4/2.5.4-changelog.rst"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 20866315,
       "digest": "sha256:9a94cf751c9ad8ebaa835bcd3d40dacf8534ad086b88c38029b65123c7999d2a",
-      "download_count": 1721,
+      "download_count": 1765,
       "created_at": "2026-10-10T21:26:45Z",
       "updated_at": "2026-10-10T21:27:14Z",
       "browser_download_url": "https://github.com/numpy/numpy/releases/download/v2.5.4/numpy-2.5.4.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4661,
       "digest": "sha256:fed7d6fc4f4979debf22a8d77bdc18324fc1aab240d72cd4e77af75f13f179ea",
-      "download_count": 63,
+      "download_count": 67,
       "created_at": "2026-10-10T21:27:42Z",
       "updated_at": "2026-10-10T21:27:43Z",
       "browser_download_url": "https://github.com/numpy/numpy/releases/download/v2.5.4/README.rst"
