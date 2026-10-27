@@ -31,8 +31,8 @@ Overall score: **8 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.5.4` (2026-10-10)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-26
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 33,154 · **Forks**: 12,979 · **Open issues**: 14,150 · **Contributors**: 1,948
+- **Stars**: 33,177 · **Forks**: 12,999 · **Open issues**: 14,151 · **Contributors**: 1,948
 
 ## Totals (cumulative)
 
-- **Releases**: 149 · **Merged PRs**: 15272 · **Open PRs**: 324 · **Closed issues**: 12234 · **Open issues**: 1916 · **Commits**: 42440
+- **Releases**: 149 · **Merged PRs**: 15273 · **Open PRs**: 325 · **Closed issues**: 12235 · **Open issues**: 1916 · **Commits**: 42443
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 224 | 59 | 24 | 13 | 184 |
-| last60d | 2026-08-27 | 2 | 445 | 93 | 55 | 24 | 505 |
-| 90d | 2026-07-28 | 3 | 659 | 112 | 80 | 43 | 749 |
-| last180d | 2026-04-29 | 8 | 1100 | 152 | 176 | 74 | 1294 |
-| 360d | 2025-10-31 | 15 | 1806 | 222 | 386 | 138 | 2547 |
-| last720d | 2024-11-05 | 29 | 3198 | 274 | 975 | 324 | 5013 |
+| 30d | 2026-09-27 | 1 | 222 | 59 | 25 | 13 | 187 |
+| last60d | 2026-08-28 | 2 | 443 | 94 | 55 | 24 | 508 |
+| 90d | 2026-07-29 | 3 | 656 | 113 | 81 | 43 | 752 |
+| last180d | 2026-04-30 | 8 | 1099 | 153 | 176 | 74 | 1297 |
+| 360d | 2025-11-01 | 15 | 1803 | 223 | 387 | 138 | 2550 |
+| last720d | 2024-11-06 | 29 | 3198 | 275 | 976 | 324 | 5011 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for numpy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:37:25Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:03:28Z._
