@@ -14,25 +14,25 @@ x install numpy
 
 ## Code insight
 
-Total: **588,313** lines of code across **1584** files in the top 5 languages.
+Total: **588,490** lines of code across **1585** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 225,061 | 15,901 | 32,086 | 495 |
-| C | 170,224 | 83,552 | 29,502 | 182 |
-| ReStructuredText | 93,671 | 0 | 25,337 | 649 |
-| CHeader | 31,677 | 8,013 | 4,484 | 231 |
+| Python | 225,108 | 15,905 | 32,095 | 495 |
+| C | 170,318 | 83,569 | 29,504 | 182 |
+| ReStructuredText | 93,676 | 0 | 25,337 | 650 |
+| CHeader | 31,708 | 8,021 | 4,486 | 231 |
 | Svg | 20,767 | 11 | 6 | 27 |
 
 ## OpenSSF Scorecard
 
-Overall score: **7.9 / 10**
+Overall score: **8 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.5.4` (2026-10-10)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 33,206 · **Forks**: 13,028 · **Open issues**: 14,156 · **Contributors**: 1,951
+- **Stars**: 33,198 · **Forks**: 13,043 · **Open issues**: 14,157 · **Contributors**: 1,951
 
 ## Totals (cumulative)
 
-- **Releases**: 149 · **Merged PRs**: 15291 · **Open PRs**: 320 · **Closed issues**: 12240 · **Open issues**: 1916 · **Commits**: 42456
+- **Releases**: 149 · **Merged PRs**: 15302 · **Open PRs**: 315 · **Closed issues**: 12241 · **Open issues**: 1916 · **Commits**: 42462
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 215 | 54 | 24 | 14 | 202 |
-| last60d | 2026-08-30 | 2 | 458 | 92 | 57 | 26 | 523 |
-| 90d | 2026-07-31 | 3 | 662 | 108 | 80 | 44 | 767 |
-| last180d | 2026-05-02 | 8 | 1110 | 149 | 179 | 76 | 1312 |
-| 360d | 2025-11-03 | 15 | 1815 | 218 | 387 | 140 | 2565 |
-| last720d | 2024-11-08 | 29 | 3210 | 269 | 970 | 326 | 5018 |
+| 30d | 2026-09-30 | 1 | 211 | 52 | 23 | 15 | 209 |
+| last60d | 2026-08-31 | 2 | 468 | 88 | 56 | 26 | 530 |
+| 90d | 2026-08-01 | 3 | 671 | 104 | 80 | 45 | 774 |
+| last180d | 2026-05-03 | 8 | 1118 | 145 | 179 | 77 | 1319 |
+| 360d | 2025-11-04 | 15 | 1819 | 212 | 387 | 141 | 2572 |
+| last720d | 2024-11-09 | 29 | 3220 | 264 | 968 | 327 | 5021 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for numpy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:48:47Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:42:31Z._
