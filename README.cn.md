@@ -31,8 +31,8 @@ x install numpy
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install numpy
 ## 发布
 
 - **最新版本**: `v2.5.4` (2026-10-10)
-- **最近提交**: 2026-10-29
+- **最近提交**: 2026-10-30
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 33,198 · **Fork**: 13,043 · **开放 issue**: 14,157 · **贡献者**: 1,951
+- **Star**: 33,211 · **Fork**: 13,057 · **开放 issue**: 14,158 · **贡献者**: 1,951
 
 ## 累计统计
 
-- **发布数**: 149 · **已合并 PR**: 15302 · **开放 PR**: 315 · **已关闭 issue**: 12241 · **开放 issue**: 1916 · **提交数**: 42462
+- **发布数**: 149 · **已合并 PR**: 15303 · **开放 PR**: 319 · **已关闭 issue**: 12242 · **开放 issue**: 1916 · **提交数**: 42463
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 211 | 52 | 23 | 15 | 209 |
-| last60d | 2026-08-31 | 2 | 468 | 88 | 56 | 26 | 530 |
-| 90d | 2026-08-01 | 3 | 671 | 104 | 80 | 45 | 774 |
-| last180d | 2026-05-03 | 8 | 1118 | 145 | 179 | 77 | 1319 |
-| 360d | 2025-11-04 | 15 | 1819 | 212 | 387 | 141 | 2572 |
-| last720d | 2024-11-09 | 29 | 3220 | 264 | 968 | 327 | 5021 |
+| 30d | 2026-10-01 | 1 | 208 | 55 | 24 | 15 | 210 |
+| last60d | 2026-09-01 | 2 | 464 | 91 | 55 | 26 | 531 |
+| 90d | 2026-08-02 | 3 | 671 | 108 | 80 | 44 | 775 |
+| last180d | 2026-05-04 | 8 | 1115 | 149 | 178 | 76 | 1320 |
+| 360d | 2025-11-05 | 15 | 1814 | 216 | 385 | 141 | 2573 |
+| last720d | 2024-11-10 | 29 | 3219 | 268 | 969 | 327 | 5016 |
 
 ## Release 资产
 
@@ -82,4 +82,4 @@ numpy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T06:42:32Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T06:43:07Z._
