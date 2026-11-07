@@ -14,11 +14,11 @@ x install numpy
 
 ## Code insight
 
-Total: **589,343** lines of code across **1592** files in the top 5 languages.
+Total: **589,346** lines of code across **1592** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 225,646 | 15,958 | 32,164 | 495 |
+| Python | 225,649 | 15,958 | 32,165 | 495 |
 | C | 170,501 | 83,603 | 29,498 | 182 |
 | ReStructuredText | 93,743 | 0 | 25,341 | 657 |
 | CHeader | 31,714 | 8,025 | 4,487 | 231 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,285 · **Forks**: 13,081 · **Open issues**: 14,167 · **Contributors**: 1,955
+- **Stars**: 33,377 · **Forks**: 13,091 · **Open issues**: 14,170 · **Contributors**: 1,955
 
 ## Totals (cumulative)
 
-- **Releases**: 149 · **Merged PRs**: 15331 · **Open PRs**: 319 · **Closed issues**: 12249 · **Open issues**: 1918 · **Commits**: 42491
+- **Releases**: 149 · **Merged PRs**: 15335 · **Open PRs**: 322 · **Closed issues**: 12251 · **Open issues**: 1919 · **Commits**: 42494
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 156 | 56 | 26 | 18 | 173 |
-| last60d | 2026-09-07 | 1 | 447 | 89 | 51 | 29 | 479 |
-| 90d | 2026-08-08 | 3 | 654 | 108 | 79 | 49 | 762 |
-| last180d | 2026-05-10 | 8 | 1126 | 152 | 176 | 83 | 1329 |
-| 360d | 2025-11-11 | 15 | 1815 | 216 | 380 | 143 | 2557 |
-| last720d | 2024-11-16 | 29 | 3218 | 268 | 959 | 330 | 4963 |
+| 30d | 2026-10-08 | 1 | 148 | 56 | 26 | 20 | 175 |
+| last60d | 2026-09-08 | 1 | 446 | 90 | 53 | 30 | 482 |
+| 90d | 2026-08-09 | 3 | 653 | 111 | 80 | 49 | 765 |
+| last180d | 2026-05-11 | 8 | 1130 | 155 | 177 | 83 | 1332 |
+| 360d | 2025-11-12 | 15 | 1819 | 218 | 382 | 144 | 2560 |
+| last720d | 2024-11-17 | 29 | 3220 | 271 | 958 | 330 | 4960 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for numpy lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:49:16Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:01:26Z._
